@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Zain.
+- I'm a passionate Flutter developer with a strong desire to learn and grow in the world of mobile app development.
+-  I've dedicated myself to mastering the art of Flutter,
+- I've been working on personal projects and experimenting with various app ideas to hone my skills.
+- 👀 I’m interested in Mobile App Developement.
+- 🌱 I’m currently learning Advanctopic's of flutter .
+- 📫 You can reach me on linkedin,https://www.linkedin.com/in/zain-patni-276161290/
