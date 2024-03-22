@@ -4,4 +4,4 @@
 - I've been working on personal projects and experimenting with various app ideas to hone my skills.
 - I’m interested in Mobile App Developement.
 -  I’m currently learning Advance topic's of flutter .
--  You can reach me on linkedin,https://www.linkedin.com/in/zain-patni-276161290/
+-  You can reach me on linkedin,https://www.linkedin.com/in/zain-patni
